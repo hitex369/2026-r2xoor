@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dwell99.github.io/2026-1/sitemap.xml
